@@ -1,3 +1,4 @@
+#Number Wizard
 This is a game I made through a course on udemy.com
 
 The game is a number guessing game.
